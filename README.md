@@ -1,0 +1,6 @@
+# SistemasDeInformacion
+intensivo
+REQUISITOS DEL SISTEMA:
+
+SQL SERVER 2013
+VISUAL STUDIO 2013
